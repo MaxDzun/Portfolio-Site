@@ -1,7 +1,47 @@
+body{
+    background-color: #060047;
+    margin: 0px;
+    font-family: 'Inconsolata', monospace;
+}
+
 .container{
     margin: 0px 387px;
 }
 
-body{
-    background-color: #060047;
+.header-line{
+    padding-top: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+
+    margin-right: 27px;
+    text-align: center;
+
+    transition: color 0.3s linear;
+}
+.nav-item:hover {
+    color: #E90064;
+}
+
+.button{
+    background-color: #E90064;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 19px 13px;
+
+    transition: background-color 0.2s linear;
+}
+
+.button:hover {
+    background-color: #92004C;
 }
