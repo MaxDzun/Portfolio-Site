@@ -847,6 +847,54 @@ img{
     .banner__block{
         width: 220px;
     }
+
+    /*---portfolio----------------------------------------------------------*/
+    .portfolio{
+        margin-top: 130px;
+        height: 835px;
+    }
+
+    .portfolio_text{
+        width: 350px;
+        height: 200px;
+
+    }
+    .portfolio_text1{
+        font-weight: 800;
+        font-size: 64px;
+        height: 80px;
+
+    }
+    .portfolio_text2{
+        height: 120px;
+    }
+    .tabs-deals__nav{
+        margin-top: 80px;
+        height: 54px;
+        width: 500px;
+
+    }
+    .tabs-deals__button{
+        height: 54px;
+        width: 110px;
+        font-size: 20px;
+        padding: 17px 0px;
+        font-weight: 700;
+    }
+
+    .item-tabs__item{
+        height: 635px;
+        gap: 15px 15px;
+    }
+
+    .item-tabs__image img{
+        width: 310px;
+        height: 310px;
+
+    }
+
+
+
     /*---bio----------------------------------------------------------*/
 
     .bio_blocks{
@@ -975,6 +1023,50 @@ img{
         margin-top: 62px;
         width: 330px;
     }
+
+    /*---portfolio----------------------------------------------------------*/
+    .portfolio{
+        margin-top: 130px;
+        height: 1334px;
+    }
+
+    .portfolio_text{
+        width: 720px;
+        height: 130px;
+        text-align: center;
+    }
+    .portfolio_text1{
+        font-weight: 800;
+        font-size: 64px;
+        height: 80px;
+
+    }
+    .portfolio_text2{
+        height: 50px;
+    }
+    .tabs-deals__nav{
+        margin: 20px 110px 30px;
+        height: 54px;
+        width: 500px;
+    }
+    .tabs-deals__button{
+        height: 54px;
+        width: 110px;
+        font-size: 20px;
+        padding: 17px 0px;
+    }
+
+    .item-tabs__item{
+        height: 1100px;
+        gap: 40px 40px;
+    }
+
+    .item-tabs__image img{
+        width: 340px;
+        height: 340px;
+
+    }
+
     /*---bio----------------------------------------------------------*/
 
     .bio{
@@ -1190,6 +1282,48 @@ img{
     .banner__block{
         margin-top: 62px;
         width: 240px;
+    }
+
+    /*---portfolio----------------------------------------------------------*/
+    .portfolio{
+        margin-top: 100px;
+        height: 1074px;
+    }
+
+    .portfolio_text{
+        width: 720px;
+        height: 150px;
+        text-align: center;
+    }
+    .portfolio_text1{
+        font-weight: 800;
+        font-size: 64px;
+        height: 80px;
+    }
+    .portfolio_text2{
+        height: 70px;
+    }
+    .tabs-deals__nav{
+        margin: 20px 0px 30px;
+        height: 54px;
+        width: 540px;
+    }
+    .tabs-deals__button{
+        height: 54px;
+        width: 100px;
+        font-size: 20px;
+        padding: 17px 0px;
+    }
+
+    .item-tabs__item{
+        height: 820px;
+        gap: 20px 20px;
+    }
+
+    .item-tabs__image img{
+        width: 260px;
+        height: 260px;
+
     }
 
     /*---bio----------------------------------------------------------*/
@@ -1499,6 +1633,49 @@ img{
         font-weight: 700;
         font-size: 14px;
     }
+
+    /*---portfolio----------------------------------------------------------*/
+    .portfolio{
+        margin-top: 40px;
+        height: 689px;
+    }
+
+    .portfolio_text{
+        width: 300px;
+        height: 100px;
+        text-align: center;
+    }
+    .portfolio_text1{
+        font-size: 32px;
+        height: 40px;
+    }
+    .portfolio_text2{
+        font-size: 10px;
+        height: 60px;
+    }
+    .tabs-deals__nav{
+        margin: 20px 0px 30px;
+        height: 24px;
+        width: 300px;
+    }
+    .tabs-deals__button{
+        height: 24px;
+        width: 70px;
+        font-size: 14px;
+        padding: 5px 0px;
+    }
+
+    .item-tabs__item{
+        height: 455px;
+        gap: 10px 10px;
+    }
+
+    .item-tabs__image img{
+        width: 145px;
+        height: 145px;
+
+    }
+
     /*---bio----------------------------------------------------------*/
 
     .bio{
