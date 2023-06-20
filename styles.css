@@ -1637,7 +1637,7 @@ img{
     /*---portfolio----------------------------------------------------------*/
     .portfolio{
         margin-top: 40px;
-        height: 689px;
+        height: 629px;
     }
 
     .portfolio_text{
@@ -1713,10 +1713,10 @@ img{
         left: 0;
         right: 0;
         margin-top: 60px;
-        height: 690px;
+        height: 720px;
     }
     .contact__container{
-        height: 650px;
+        height: 620px;
         gap: 0px 0px;
         /*text-align: center;*/
         /*align-items: center;*/
@@ -1934,8 +1934,8 @@ img{
     }
     /*order button-----------*/
     .order_button__container{
-        margin-top: 0px;
-        margin-bottom: 0px;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
     .order_button{
         font-size: 14px;
